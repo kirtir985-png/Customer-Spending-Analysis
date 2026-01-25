@@ -1,4 +1,4 @@
-# Customer Spending Analysis Dashboard 📊
+# Customer Behaviour Analysis Dashboard 📊
 
 ## 📌 Project Overview
 This project was developed as part of my internship at **ALFIDO TECH**.  
